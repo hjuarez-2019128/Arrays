@@ -1,0 +1,11 @@
+Empresas E
+TipoEmpleado T
+TipoPlato TP
+Productos P
+Empleado EM
+Servicios S
+Presupuesto PE
+Platos PL
+Productos Has Platos PHP 
+Servicios Has platos SHP
+Servicios has empleados SHE
